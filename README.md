@@ -11,12 +11,11 @@ Sou estudante de Engenharia de Software e apaixonado por programação. Aqui est
 ## Ferramentas e Tecnologias
 - GitHub
 - Visual Studio Code
- 
-# Minhas Estatísticas de Linguagens
 
 # Minhas Estatísticas de Linguagens
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=RomualdoJunior7&layout=compact&theme=radical)](https://wakatime.com/@RomualdoJunior7)
+![WakaTime Stats](https://wakatime.com/share/@RomualdoJúnior7/XXXXXX.png)
+
 
 
 
