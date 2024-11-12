@@ -14,7 +14,10 @@ Sou estudante de Engenharia de Software e apaixonado por programação. Aqui est
  
 # Minhas Estatísticas de Linguagens
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=RomualdoJúnior7&layout=compact&theme=radical)](https://wakatime.com/@RomualdoJúnior7)
+# Minhas Estatísticas de Linguagens
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=RomualdoJunior7&layout=compact&theme=radical)](https://wakatime.com/@RomualdoJunior7)
+
 
 
 
