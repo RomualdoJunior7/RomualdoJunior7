@@ -12,8 +12,6 @@ Sou estudante de Engenharia de Software e apaixonado por programação. Aqui est
 - GitHub
 - Visual Studio Code
  
-# Minhas Estatísticas de Linguagens
-
-![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RomualdoJúnior7&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook)
+![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RomualdoJunior7&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook)
 
 
