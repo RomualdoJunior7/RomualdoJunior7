@@ -14,7 +14,8 @@ Sou estudante de Engenharia de Software e apaixonado por programação. Aqui est
 
 # Minhas Estatísticas de Linguagens
 
-![WakaTime Stats](https://wakatime.com/share/@RomualdoJúnior7/XXXXXX.png)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RomualdoJúnior7&layout=compact&langs_count=8&theme=radical)
+
 
 
 
