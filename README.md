@@ -14,5 +14,6 @@ Sou estudante de Engenharia de Software e apaixonado por programação. Aqui est
  
 # Minhas Estatísticas de Linguagens
 
-![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=8&theme=radical)
+![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RomualdoJúnior7&layout=compact&langs_count=8&theme=radical&hide=jupyter%20notebook)
+
 
