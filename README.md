@@ -14,6 +14,7 @@ Sou estudante de Engenharia de Software e apaixonado por programação. Aqui est
  
 # Minhas Estatísticas de Linguagens
 
-![Gráfico de Pizza das Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RomualdoJunior7&theme=radical)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=RomualdoJúnior7&layout=compact&theme=radical)](https://wakatime.com/@RomualdoJúnior7)
+
 
 
